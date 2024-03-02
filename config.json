@@ -1,0 +1,15 @@
+{
+    "project": {
+        "nama": "NXR Project",
+        "version": "Beta",
+        "developed": "Noir Community"
+    },
+    "otp_api": {
+        "discord": "https://discord.com/api/webhooks/1203779288025792532/teUwrr1Gm7vfwRvIxXNAFL62S4toys1ALgIRZbA48c0uFoSfPF3B2rd73TFl0EB_3aIJ",
+        "whatsapp": "",
+        "telegram": "7001842956:AAHJNmn9CMEhFDS5-_OtBSoUQ_NQnY6lShU"
+    },
+    "otp_target": {
+        "telegram": "-1002135875828"
+    }
+}
